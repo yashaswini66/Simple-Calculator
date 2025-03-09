@@ -13,6 +13,4 @@ A basic web-based calculator built using Flask. It allows users to perform addit
 ## 🛠 Technologies Used
 - **Python** (Flask for backend)
 - **HTML & CSS** (Frontend UI)
-- **Jinja2** (Template rendering)
-
-## 📂 Project Structure
+- **Jinja2** (Template render
